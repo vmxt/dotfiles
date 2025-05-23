@@ -72,28 +72,12 @@ This repository contains my personal dotfiles and configuration for a minimalist
 
 ## 📁 Dotfiles Structure
 
-```bash
+Your configuration is organized under `~/.config/` with a focus on simplicity, clarity, and modularity:
+```
 ~/.config/
-├── bspwm/        # bspwm configuration and keybindings
-├── sxhkd/        # hotkey daemon for bspwm
-├── polybar/      # custom bars and modules
-├── urxvt/        # terminal config
-└── ...           # other configs
-
-🚀 Installation
-
-Clone the repository:
-
-git clone https://github.com/vmxt/dotfiles.git ~/.dotfiles
-
-Run the setup script (if included) or symlink configs manually:
-
-ln -s ~/.dotfiles/.config/* ~/.config/
-
-Ensure required packages are installed (you can use apt, gdebi, or a personal script).
-
-Reboot or restart bspwm.
-
-🛠️ Customizations
-
-This setup uses custom GTK themes and icon packs, bitmap fonts for a retro aesthetic, and hand-tuned polybar modules for status display across dual monitors. Feel free to fork and customize to your liking.
+├── bspwm/ # bspwm configuration and keybindings
+├── sxhkd/ # hotkey daemon for bspwm
+├── polybar/ # custom bars and modules
+├── urxvt/ # terminal config
+└── ... # other configs (rofi, redshift, etc.)
+```
