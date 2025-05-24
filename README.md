@@ -81,3 +81,7 @@ Your configuration is organized under `~/.config/` with a focus on simplicity, c
 ├── urxvt/ # terminal config
 └── ... # other configs (rofi, redshift, etc.)
 ```
+
+Screenshot:
+![Screenshot_2025-05-24_17-49-13](https://github.com/user-attachments/assets/15efc1c3-577d-4b10-8a24-0622b4e887d1)
+
