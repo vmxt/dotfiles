@@ -83,5 +83,5 @@ Your configuration is organized under `~/.config/` with a focus on simplicity, c
 ```
 
 Screenshot:
-![Screenshot_2025-05-24_17-49-13](https://github.com/user-attachments/assets/15efc1c3-577d-4b10-8a24-0622b4e887d1)
+![Screenshot_2025-05-24_17-49-13](https://github.com/user-attachments/assets/195fa128-9f9c-4a3c-95a3-c93e817a9471)
 
