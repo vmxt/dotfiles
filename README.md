@@ -30,16 +30,16 @@ This repository contains my personal dotfiles and configuration for a minimalist
 ## 📦 Essential Packages
 
 - **Browsers:**  
-  `firefox-esr`, `librewolf`, `icecat` *(used in hotkey super+z)*
+  `firefox-esr`
 
 - **Terminal Emulators:**  
-  `urxvt` *(main terminal, used in hotkeys and for qalculate)*
+  `urxvt`
 
 - **File Manager:**  
-  `pcmanfm` *(used in hotkey super+x)*
+  `pcmanfm`
 
 - **Program Launcher:**  
-  `rofi` *(used in hotkey super+r)*
+  `rofi`
 
 - **Calculators:**  
   `qalculate` *(used in hotkey super+q launched via urxvt)*
