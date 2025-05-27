@@ -54,7 +54,7 @@ This repository contains my personal dotfiles and configuration for a minimalist
   `mpv`, `ghb` (HandBrake)
 
 - **Graphics and Screenshots:**  
-  `gimp`, `scrot`
+  `gimp`, `flameshot`
 
 - **System Appearance & Utilities:**  
   `redshift`, `polybar`, `lxappearance`
