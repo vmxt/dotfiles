@@ -1,6 +1,7 @@
 !! Colorscheme
 !
 
+*.background: #383838
 *.foreground: #dfc987
 *.cursorColor: #dfc987
 
@@ -9,35 +10,35 @@
 !!!!!!!!!!!!!!!!
 !! black 
 *.color0: #212121
-*.color8: #215328
+*.color8: #2e2e2e
 
 !! red
-*.color1: #305cc8
-*.color9: #305cc8
+*.color1: #c26161
+*.color9: #d17070
 
 !! green
-*.color2: #7d8287
-*.color10: #7d8287
+*.color2: #8a9a7b
+*.color10: #a0b08f
 
 !! yellow
-*.color3: #93949a
-*.color11: #c26161
+*.color3: #bfae84
+*.color11: #dfc987
 
 !! blue
-*.color4: #c9b889
-*.color12: #c9b889
+*.color4: #8892af
+*.color12: #a3add0
 
 !! magenta
-*.color5: #dcc788
-*.color13: #dfc987
+*.color5: #dfc987
+*.color13: #e8d89b
 
 !! cyan
-*.color6: #c8d7bb
-*.color14: #c8d7bb
+*.color6: #b8cdbb
+*.color14: #cde3ce
 
 !! white
 *.color7: #c9c9c9
-*.color15: #335137
+*.color15: #f5f5f5
 
 
 !! URxvt Appearance
@@ -73,3 +74,5 @@ URxvt.keysym.C-S-0x56: eval:paste_clipboard
 URxvt.urlLauncher: icecat
 URxvt.underlineURLs: true
 URxvt.urlButton: 1
+
+Xcursor.theme: miniature
