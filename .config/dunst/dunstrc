@@ -1,0 +1,20 @@
+[global]
+    # Set the background and foreground colors for all notifications
+    background = "#383838"
+    foreground = "#dfc987"
+    frame_color = "#dfc987"
+
+[urgency_low]
+    background = "#383838"
+    foreground = "#dfc987"
+    frame_color = "#dfc987"
+
+[urgency_normal]
+    background = "#383838"
+    foreground = "#dfc987"
+    frame_color = "#dfc987"
+
+[urgency_critical]
+    background = "#383838"
+    foreground = "#dfc987"
+    frame_color = "#dfc987"
