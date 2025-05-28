@@ -8,10 +8,6 @@ export XDG_DATA_HOME="$HOME/.local/share"
 # Load X resources
 [ -f "$HOME/.Xresources" ] && xrdb -merge "$HOME/.Xresources"
 
-# Default cursor theme
-export XCURSOR_THEME=miniature
-export XCUSTOR_SIZE=24
-
 # Start sxhkd (bspwm hotkey daemon)
 if command -v sxhkd >/dev/null; then
     sxhkd &
